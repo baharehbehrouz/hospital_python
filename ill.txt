@@ -1,0 +1,11 @@
+5
+Full-Name            sadeg
+Age                  23
+National_code        123678903456789
+Status               cured
+Index                5
+Financial            123
+Discharge            clearance
+Description          asasdasd
+Cost                 3456
+Paid                 paid
